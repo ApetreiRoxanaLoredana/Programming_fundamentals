@@ -1,0 +1,3 @@
+Cino, Romania, 100
+Marco, Italia, 90
+Merigo, Romania, 80
